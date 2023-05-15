@@ -1,0 +1,39 @@
+.thank-you-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 25px;    
+}
+
+.selected-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 50px 25px 50px;
+    padding: 8px 8px;
+    border-radius: 25px;
+    color: hsl(23, 95%, 52%);
+    background-color: hsl(213, 10%, 23%);
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.parragraph {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 25px;
+    color: hsl(217, 12%, 63%);
+    font-size: 14px;
+}
